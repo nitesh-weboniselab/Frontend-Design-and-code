@@ -1,0 +1,67 @@
+body {
+		 font-family: arial;
+		 background-color: rgb(255,255,255);}
+
+
+h1 {
+	text-align: center;
+	font-family: arial;
+
+}
+.main{
+	width:940px;
+	margin: auto;
+	border: 1px solid #000000;
+}
+.subContain {
+	
+	width:200px;
+	float: left;
+	
+}
+
+.subContain ul li {
+	display:block;
+
+}
+
+.container img {
+	
+	width:100px;
+	float:left;
+}
+
+
+.container{
+	height:400px;
+	width: 729px;
+	float:left;
+	padding-left: 9px;
+	border-left:1px solid #000000 
+}
+.footer {
+	
+	width:200px;
+	float: left;
+
+}
+.footer1 {
+
+	width:200px;
+	float: right;
+}
+.gobutton{
+cursor:pointer; 
+padding:5px 25px; 
+background:#35b128; 
+border:1px solid #33842a; 
+
+
+
+color:#f3f3f3;
+font-size:1.1em;
+}
+
+.end{
+	clear:both;
+}

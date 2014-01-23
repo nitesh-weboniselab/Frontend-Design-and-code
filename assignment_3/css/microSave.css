@@ -1,0 +1,318 @@
+body,h1{
+	padding: 0px;
+	margin: 0px;
+}
+.main .logo img{
+	width:239px;
+	padding-top: 11px;
+	padding-left: 2cm;
+
+}
+.main {
+	margin: auto;
+	width:1100px;
+	background-color: #f4f5f6;
+
+}
+
+.menu ul li{
+	display: inline;
+	
+
+}
+div .menu{
+	color: #ffffff;
+	background-color: #3355aa;
+	padding-left: 97px;
+	font-size: 15px;
+	font-family: Georgia;
+	font-style:italic;
+	height: 40px;
+}
+div .search{
+	float:right;
+	
+	padding-top: 2.5px;
+	padding-bottom: 2.5px;
+	
+	
+}
+.submenu a:link {color:#ffffff;text-decoration:none;}
+.submenu a:visited{color:#ffffff;text-decoration:none;}
+.submenu{
+
+	padding-bottom:16px;
+	float:left;
+}
+.menu li+li{
+	padding-left: 32px;
+}
+.ss{
+	float:right;
+}
+.search img{
+	width:38px;
+	height: 30px;
+	padding-right: 80px;
+}
+
+
+input{
+	width:173px;
+	height: 30px;
+	padding-left: 13px;
+	background-color: #214193;
+	border-style:;
+	border-color: #214193;
+}
+
+.infoleft{
+	width:419px;
+	margin-left: 80px;
+	margin-top: 36px;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+}
+
+ 
+.infoleft p{
+
+	padding-left:39px;
+}
+.infoleft p+p{
+	
+	padding-left:99px;
+}
+.infoleft p{
+	font-family: Georgia;
+	font-size: 14px;
+	font-style: italic;
+}
+.infoleft img{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	
+	
+	
+}
+.infoleft{
+	float:left:;
+}
+.announcment{
+	float:right;
+	width:240;
+}
+.dot{
+	width: 365px;
+	height: 17px;
+	padding-bottom: 14px;
+	padding-left: 28px;
+	padding-right: 28px;
+}
+
+.announcment .paragraphTwo , .paragraphFour , .paragraphSix , .paragraphEight{
+	font-family: Georgia;
+	font-size: 13px;
+	font-style: italic;
+}
+
+.announcment .paragraphThree , .paragraphFive , .paragraphSeven {
+	font-family: Georgia;
+	font-size: 10px;
+	font-style: Regular;
+}
+
+.announcment p{
+	width:220px;
+}
+.announcment .paragraphOne{
+	font-family: nevis;
+	font-size: 16px;
+	font-style: bold;
+	padding-bottom: 15px;
+	border-bottom: 3px solid #eebe00;
+}
+
+ .WWD p{
+ 	width:220px;
+ }
+ .WWD{
+	float:right;
+	width:240px;
+
+}
+.middle .lower{
+	font-family: Georgia;
+	font-size: 13px;
+	font-style: regular;
+}
+.middle .upper{
+	font-family: nevis;
+	font-size: 16px;
+	font-style: bold;
+	padding-bottom: 15px;
+	border-bottom: 3px solid #eebe00;
+	
+	
+}
+.middle a:link{color:#3355aa;text-decoration:none;}
+.middle a:visited{color:#3355aa;text-decoration: none;}
+.middle .bottom{
+	font-family: nevis;
+	font-size: 16px;
+	font-style: bold;
+	padding-top: 55px;
+	padding-bottom: 15px;
+	border-bottom: 3px solid #eebe00;
+}
+.clear{
+	clear:both; 
+}
+.sector{
+	font-family: nevis;
+	font-size: 28px;
+	font-style: bold;
+	color: #444444;
+	margin: auto;
+	text-align: center;
+}
+
+.work a{
+	font-family: Georgia;
+	font-size: 13px;
+	font-style: Regular;
+
+}
+.work a:link{color: #3355aa; text-decoration: none;}
+.work a:visited{color: #3355aa; text-decoration: none;}
+
+.work div{
+	float:left;
+	width:175px;
+	
+	
+}
+
+.work img{
+	width: 165px;
+	height: 200px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 16px;
+}
+
+.microFinance{
+	margin-left: 80px;
+	
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+	display: block;
+
+}
+.microFinance a{
+     height: 46px;
+     width:106px;
+     padding-top: 15px;
+     padding-left: 36px;
+     display: block;
+     
+}
+.emBanking a{
+	width:125px;
+	height: 46px;
+	padding-top: 15px;
+	padding-left: 32px;
+	display: block;
+}
+.privateSector a{
+	width:90px;
+	height: 46px;
+	padding-top: 15px;
+	padding-left: 46px;
+	display: block;
+}
+.smallMedium a{
+	width:132px;
+	height: 46px;
+	padding-top: 15px;
+	padding-left: 27px;
+	padding-right: 26px;
+display: block;
+}
+.responsibleFinance a{
+	width:128px;
+	height: 46px;
+	padding-top: 15px;
+	padding-left: 29px;
+	display: block;
+}
+.emBanking ,.privateSector,.smallMedium,.responsibleFinance {
+	margin-left: 17px;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+}
+.responsibleFinance{
+	margin-right: 17px;
+}
+
+.footer{
+	background-image:url('MS_newHome_v3_02_bar.jpg');
+	background-repeat:repeat-x;
+}
+.footerLeft{
+	float: left;
+}
+.footerRight{
+	float: right;
+	padding-right: 80px;
+}
+.footer ul li{
+	display: inline;
+}
+
+footer{
+	
+	margin: auto;
+	width:1100px;
+	height: 54px;
+	background-color: #333333;
+
+}
+.footer a:link{color: #8e8e8e;text-decoration: none;}
+.footer a:visited{color: #8e8e8e;text-decoration: none;}
+.footer a{
+	font-family: Georgia;
+	font-size: 14px;
+	font-style: Regular;
+}
+
+
+      .microsave{
+	float: left;
+	padding-left: 60px;
+	padding-top: 16px
+}
+.follow div{
+	float:right;
+	padding-top: 14px;
+}
+.img1 , .img2 , .img3{
+	
+	padding-top: 11px;
+	padding-left: 5px;
+}
+
+.footer2{
+	font-family: Georgia;
+	font-size: 11px;
+	font-style: Regular;
+	
+	width:1100px;
+	margin: auto;
+}
+
+.img3{
+	padding-right: 110px;
+}

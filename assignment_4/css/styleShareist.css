@@ -1,0 +1,164 @@
+.form-horizontal .controls {
+	margin-left: 0px;
+}
+
+input[type="text"]{
+	padding-bottom: 10px;
+}
+
+
+
+.mainheader{
+	background-color: #2d2d2d;
+}
+.header{
+	background-color: #2d2d2d;
+	width: 940px;
+	margin: auto;
+
+}
+
+
+
+
+
+.hLeft{
+	float: left;
+	text-align: center;
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+.hRight{
+	float: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.slider{
+	background-color: #33aaee;
+}
+.slider a{
+	margin: auto;
+	text-align: center;
+padding-left: 320px;
+
+}
+.slider img+img{
+border:3px solid ##33aaee;
+
+}
+.button{
+	border-radius: 22px;
+	padding-bottom: 30px;
+}
+.contain{
+	background-color: #eeeeee
+}
+.information{
+	padding-top: 72px;
+}
+.signup{
+	margin-top: 27px;
+	margin-bottom: 31px;
+	border: 1px solid #cecece;
+	background-color: #ffffff;
+}
+.firstPhara{
+	padding-top: 26px;
+}
+.signup p{
+	padding-left: 21px;
+	
+}
+.signup img{
+	padding-left: 20px;
+}
+input{
+	padding-left: 20px;
+}
+#r {
+	padding-left: 114px;
+	
+	padding-bottom: 14px
+}
+.txt{
+ padding-left: 21px;
+}
+.btnSignup{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.first{
+	border-bottom: 1px solid #cfcfcf;
+}
+.heading{
+	font-family: "myriad Pro";
+	font-style: Regular;
+	font-size: 24px;
+
+}
+
+.turn{
+	font-family: Ubuntu;
+	font-style: Medium;
+	font-size: 36px;
+}
+.capture{
+	font-family: "Helvetica";
+	font-style: bold;
+	font-size: 18px;
+	padding-top: 31px;
+}
+.title{
+	font-family: Ubuntu;
+	font-style: Medium;
+	font-size: 21px;
+	padding-top: 51px;
+	padding-bottom: 51px;
+}
+.shareist{
+	font-family: "Helvetica";
+	font-style: bold;
+	font-size: 21px;
+	padding-top: 32px;
+
+}
+.second img{
+	padding-bottom: 141px;
+
+}
+.btnpress{
+	background-color: #5c5c5c
+}
+.part{
+    
+	font-style: Helvetica;
+	font-size: 13px;1`
+	padding-top: 32px;
+}
+.middle{
+	border-bottom: 1px solid #cfcfcf;
+}
+.space{
+	padding-bottom: 51px;
+}
+
+.clear{
+	clear: both;
+}
+
+
+.modifybtn{
+	width:259px;
+    height:36px;
+    padding-top: 10px;
+    font-family: myraid Pro;
+    font-size: 15px;
+    font-color:white;
+    border-radius: 22px;
+
+    color: rgb(255,255,255); 
+    box-shadow: 0 0 2px #0976b5;
+    
+}
