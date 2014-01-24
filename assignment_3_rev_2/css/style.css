@@ -345,7 +345,7 @@ h4{
 	padding-bottom: 53px;
 }
 .footer{
-	background-image: url(../images/MS_newHome_last_16.png);
+	background-image: url(../images/dot_pixel.png);
 	repeat;
 }
 .upperFooter{
@@ -389,7 +389,7 @@ ul li {
 }
 .upperRightFooter ul li{
 	display: inline;
-	background-image: url(../images/MS_newHome_v3_line_12.png);
+	background-image: url(../images/V_line.png);
 	background-position:right center;
 	background-repeat: no-repeat;
 	padding-left: 6px;
