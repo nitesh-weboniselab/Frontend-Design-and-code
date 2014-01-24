@@ -1,0 +1,387 @@
+body,header,ul,li,input,img,button,p,footer,div,a{
+	padding:0px;
+	margin:0px;
+}
+
+.headerwrap{
+	
+	background-color: #f4f5f6;
+}
+.main{
+	
+}
+.header{
+	padding-bottom: 16px;
+	padding-top: 14px;
+	
+	width: 940px;
+	margin: auto;
+}
+.logo{
+	padding-left: 20px;
+	text-align: center;
+	width: 240px;
+}
+.nevigationWrapper{
+	background-color:#3355aa;
+}
+.nivigation{
+	background-color:#3355aa;
+	text-align: center;
+	margin: auto;
+	width: 940px;
+	height: 40px;
+
+}
+.leftNivigation ul li{
+	
+	font-family: georgia;
+	font-style: italic;
+	font-size: 15px;
+	text-align: center;
+	display: inline;
+	background-image: url(../images/MS_newHome_v3_line.jpg);
+	background-position:right center;
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	padding-right: 15px;
+	line-height: 36px;
+}
+.leftNivigation ul{
+	font-family: georgia;
+	font-style: italic;
+	font-size: 15px;
+	text-align: center;
+	display: inline;
+	background-image: url(../images/MS_newHome_v3_line.jpg);
+	background-position:left center;
+	background-repeat: no-repeat;
+	
+	line-height: 36px;
+}
+.search{
+	padding-left: 10px;
+}
+.navigation img {
+	padding-left: 15pt;
+	text-align: center;
+
+}
+.firstline{
+	float: left;
+}
+.leftNivigation{
+	float: left;
+	display: inline;
+	padding-top: 5px;
+}
+.leftNivigation a:link{color:#ffffff;text-decoration:none;}
+.leftNivigation a:visited{color:#ffffff;text-decoration: none;}
+.searchBox{
+	width: 168px;
+	height: 26px;
+	margin-right: 10px;
+	border-radius: 5px;
+	border:1px solid;
+	border-color: rgb(15,35,86);
+	/*border-color:  #284389;*/
+	/*background-color: #214193;*/
+	background-color:rgb(33,65,147);
+	font-family: georgia;
+	box-shadow: 1px 0px 0px #888888;
+}
+
+.searchButton{
+	width: 38px;
+	height: 30px;
+	/*border-radius: 15px;*/
+	background-color: #446ac9;
+	border:1px solid #000000;
+
+}
+.rightNavigation{
+	float: right;
+	height: 20px;
+	width: 230px;
+	margin: 4px 0px 4px 0px;
+	text-align: center;
+}
+
+.rightNavigation{
+	padding-bottom: 4px;
+	text-align: center;
+}
+.search{
+	background-image: url(../images/MS_newHome_last_03.jpg);
+	width: 38px;
+	height: 28px;
+	padding-top: 4px;
+	border-radius: 5px;
+	border: 1px solid #1c3980;
+	box-shadow: 1px 0px 0px #888888;
+}
+
+input{
+	width: 169px;
+	height: 29px;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 14px;
+	float: left;
+	border: 1px solid #000000;
+	border-radius: 3px;
+}
+.bannerWrapper{
+	background-color: #f4f5f6;
+}
+.banner{
+	width: 940px;
+	margin: auto;
+	background-color: #f4f5f6;
+}
+.infoleft{
+	width:420px;
+	height: 340px;
+	float: left;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+	margin-right: 60px;
+	margin-bottom: 75px;
+	margin-top: 35px;
+	box-shadow: 3px 3px 5px #888888;
+
+}
+.WWD{
+	float: left;
+	width:220px;
+	padding-right: 15px;
+	margin-top: 35px;
+}
+.WWD p{
+	width:220px;
+	color: #666666;
+}
+.announcment{
+	margin-top: 35px;
+	float:left;
+	width:240;
+}
+.announcment .paragraphTwo , .paragraphFour , .paragraphSix , .paragraphEight{
+	font-family: Georgia;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: bold;
+	
+}
+.announcment .paragraphTwo , .paragraphFour , .paragraphSix{
+	padding-bottom: 10px;
+}
+.announcment .paragraphFour , .paragraphSix {
+	padding-top: 10px;
+}
+.announcment .paragraphThree , .paragraphFive , .paragraphSeven {
+	font-family: Georgia;
+	font-size: 10px;
+	font-style: Regular;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #f0f0f0;
+	color: #666666;
+}
+.announcment p{
+	width:220px;
+	color: #000000;
+}
+.announcment p a:link{color:#000000;text-decoration:none;}
+.announcment p a:hover{color:#000000;text-decoration:none;}
+.announcment p a:visited{color:#000000;text-decoration:none;}
+
+.announcment .paragraphOne{
+	font-family: nevis;
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 15px;
+	border-bottom: 3px solid #eebe00;
+	margin-bottom: 20px;
+	color: #666666;
+}
+.WWD p+p{
+	padding-bottom: 19px;
+}
+.banner .lower{
+	font-family: Georgia;
+	font-size: 13px;
+	font-style: regular;
+}
+.banner .upper{
+	font-family: nevis;
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 15px;
+	border-bottom: 3px solid #eebe00;
+	margin-bottom: 20px;
+	color: #666666;
+	
+	
+}
+.banner a:link{color:#3355aa;text-decoration:none;}
+.banner a:visited{color:#3355aa;text-decoration: none;}
+.banner .bottom{
+	font-family: nevis;
+	font-size: 16px;
+	font-weight: bold;
+	padding-top: 36px;
+	padding-bottom: 15px;
+	border-bottom: 3px solid #eebe00;
+}
+
+.sectorWrapper{
+	background-color: #f4f5f6;
+}
+.sector{
+	font-family: nevis;
+	font-size: 28px;
+	font-weight: bold;
+	color: #444444;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 28px;
+}
+
+.work div{
+	float:left;
+	width:165px;
+
+	box-shadow: 1px 1px 5px #888888;
+	
+}
+.work a{
+	color: #3355aa;
+	text-decoration: none;
+}
+.work{
+	margin: auto;
+	width: 940px;
+}
+.work p{
+	text-align: center;
+}
+.work img{
+	width: 165px;
+	height: 200px;
+	text-align: center;
+	padding: 16px 5px 5px 0px;
+}
+
+.microFinance{
+	
+	width:180px;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+	display: block;
+
+
+}
+
+
+.emBanking ,.privateSector,.smallMedium,.responsibleFinance {
+	margin-left: 15px;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+	width:180px;
+}
+
+.workWrapper{
+	background-color: #f4f5f6;
+	padding-bottom: 53px;
+}
+.footer{
+	background-image: url(../images/MS_newHome_last_16.png);
+	repeat;
+}
+.upperFooter{
+	padding-top: 17px;
+	width: 940px;
+	margin: auto;
+	border-bottom: 1px solid #3d3d3d;
+
+	padding-bottom: 19px;
+	margin-bottom: 10px;
+
+}
+ul li {
+	display: inline;
+}
+.upperLeftFooter{
+	float:left;
+	font-family: georgia;
+	font-style: Regular;
+	font-size: 14px;
+	color: #aaaaaa;
+}
+.upperLeftFooter ul li{
+	display: inline;
+	
+}
+.upperLeftFooter a {
+	padding-left: 6px;
+	padding-right: 6px;
+}
+.upperRightFooter a {
+	padding-left: 6px;
+	padding-right: 6px;
+}
+.upperRightFooter{
+	float: right;
+	color: #aaaaaa;
+}
+.upperRightFooter ul li{
+	display: inline;
+	background-image: url(../images/MS_newHome_v3_line_12.png);
+	background-position:right center;
+	background-repeat: no-repeat;
+	padding-left: 6px;
+	padding-right: 6px;
+	
+}
+.upperRightFooter ul li a{
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.upperFooter a:link{color:#aaaaaa;text-decoration:none;}
+.upperFooter a:hover{color:#ffffff;text-decoration: none;}
+.upperFooter a:visited{color:#aaaaaa;text-decoration: none;}
+.lowerFooter{
+	width: 940px;
+	margin: auto;
+}
+.lowerLeftFooter{
+	float: left;
+	font-family: georgia;
+	font-style: Regular;
+	font-size: 11px;
+}
+.lowerRightFooter{
+	float: right;
+	font-family: georgia;
+	font-style: Regular;
+	font-size: 11px;
+}
+.lowerFooter p{
+	color: #888888;
+}
+.follow{
+	float: left;
+}
+.lowerRightFooter a{
+	float: right;
+	padding-left: 6px;
+	padding-bottom: 20px;
+}
+.lastPic{
+	padding-right: 20px;
+}
+
+.clear{
+	clear: both;
+}

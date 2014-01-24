@@ -1,0 +1,184 @@
+div, body, p, a, button, form, fieldset,ul,li,ol ,img,input,span{
+	margin: 0px;
+	padding: 0px;
+}
+@font-face { font-family: "helvetica neue"; src: url('../fonts/helvetica-neue1_0.ttf'); } 
+@font-face { font-family: "helvetica neue"; font-weight:bold; src: url('../fonts/helvetica-neue-bold.ttf'); } 
+@font-face { font-family: "myriad pro"; src: url('../fonts/MyriadPro-Regular.otf'); }
+
+ul li{
+	display: inline;
+}
+.headerWrapper{
+	background-color: #ffffff;
+	margin-bottom: 5px;
+}
+.logoHandler{
+	padding-top: 4px;
+	
+}
+.handler{
+	margin-left: -20px;
+	margin-top: 12px;
+}
+.marginTop10{
+	margin-top: 6px;
+}
+.txt{
+	
+	color: #444444;
+	font-family: helvetica;
+	font-size: 14px;
+
+}
+.margin{
+	margin-right: 34px;
+}
+.margin42{
+	margin-left: 42px;
+}
+.linkmargin{
+	float: left;
+}
+.margin16{
+	margin-top: 16px;
+}
+.siteLogo{
+	float: right;
+	
+}
+.banner{
+width: auto;
+margin-bottom: 20px;
+background-image: url(../images/banner.jpg);
+background-position: top center;
+background-color: #ffc258;
+background-repeat: no-repeat;
+}
+.marginTop116{
+	margin-top: 116px;
+}
+.marginLeft16{
+	margin-left: 16px;
+}
+.sandBox{
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 40px;
+	color: #222222;
+	padding-left: 88px;
+	padding-top: 7px;
+}
+.sandBoxContent{
+	font-family: Helvetica;
+	font-size: 12px;
+	line-height: 18px;
+	color: #555555;
+	padding-left: 34px;
+	
+}
+.middleSign{
+	margin-top: 48px;
+	padding-bottom: 14px;
+	
+}
+.middleSign img{
+	width: 42px;
+	height: 52px;
+}
+.smallLogo{
+	float: left;
+	margin-right: 15px;
+	margin-left: 30px;
+}
+.signup{
+	float: left;
+	font-family: Helvetica;
+	font-size: 30px;
+	line-height: 18px;
+	color: #431313;
+	padding-top: 12px;
+
+}
+.signSeparator{
+	margin-left: 30px;
+
+
+}
+.textBox{
+	margin-top: 11px;
+	margin-left: 31px;
+	margin-bottom: 10px;
+
+}
+input{
+	padding-bottom: 5px;
+	
+}
+input[type="text"]{
+	height: 27px;
+	padding-bottom: 10px;
+}
+.size300{
+	width:297px;
+}
+.signbtn{
+	margin-left: 31px;
+
+}
+.already{
+	margin-left: 31px;
+	font-family: Helvetica;
+	font-size: 14px;
+	line-height: 40px;
+	color: #555555;
+
+}
+.loginLink{
+	font-family: Helvetica;
+	font-size: 14px;
+	line-height: 40px;
+	color: #111111;
+}
+.helpSignup{
+	margin-top: 15px;
+	padding-bottom: 53px;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.4);
+}
+.left{
+	font-family: Helvetica;
+	font-size: 14px;
+	line-height: 16px;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
+	color: #444444;
+	float: left;
+
+
+}
+.right{
+	font-family: Helvetica;
+	font-size: 12px;
+	line-height: 16px;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
+	color: #444444;
+	float: left;
+}
+
+.redirectLinks span{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.copyRight{
+	float: right;
+}
+.text{
+	
+	margin-right: 5px;
+	font-family: Helvetica;
+	font-size: 12px;
+	line-height: 16px;
+	color:#888888;
+}
+a:hover{text-decoration: none;}
+linkSeparetor
