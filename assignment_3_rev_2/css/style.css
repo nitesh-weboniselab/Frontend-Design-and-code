@@ -7,9 +7,7 @@ body,header,ul,li,input,img,button,p,footer,div,a,h4,h2{
 	
 	background-color: #f4f5f6;
 }
-.main{
-	
-}
+
 .header{
 	padding-bottom: 14px;
 	padding-top: 14px;
@@ -225,7 +223,7 @@ a.paragraphEight{
 	line-height: 18px;
 }
 a.paragraphEight:hover{
-    color: #000000;
+    color: #ffffff;
 }
 h4{
 	
@@ -377,7 +375,7 @@ ul li {
 	padding-right: 6px;
 }
 .upperRightFooter a {
-	padding-left: 6px;
+	
 	padding-right: 6px;
 }
 .upperRightFooter{
