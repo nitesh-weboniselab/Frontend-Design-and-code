@@ -1,0 +1,359 @@
+div,body,p,span,img,ul,li,ol,a,input,select{
+	margin:0px;
+	padding: 0px;
+}
+.headerWrapper{
+	padding-bottom:17px;
+	border-bottom: 1px solid  #e4e4e4;
+	margin-bottom: 11px;
+
+}
+.header{
+	width: 940px;
+	margin:auto;
+	padding-top: 57px;
+}
+
+.headerLeft {
+	font-family: Roboto;
+	font-size: 37px;
+	color: #000;
+	float:left;
+	margin-right: 183px;
+}
+
+.header ul li{
+	font-family: Roboto;
+	font-size: 15px;
+	color: #1a4da2;
+	padding-right: 35px;
+}
+.header ul li a{
+	color: #4e6eb0;
+}
+.header ul li a:link{color:#4e6eb0;text-decoration: none;}
+.header ul li a:hover{color:#000000;text-decoration: none;}
+
+
+ul li{
+	display: inline;
+}
+.headerRight{
+	float: left;
+	margin-top: 16px;
+}
+.headertextBox{
+	background-image: url(../images/search_logo.png);
+	background-repeat: no-repeat;
+   
+	margin-top: 8px;
+	padding-top: 8px;
+	padding-bottom: 8px; 
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background-color: #fff;
+	-webkit-box-shadow: inset 0 1px 3px rgba(0,0,0,.25);
+	-moz-box-shadow: inset 0 1px 3px rgba(0,0,0,.25);
+	box-shadow: inset 0 1px 3px rgba(0,0,0,.25);
+	border: solid 1px #bbb;
+	background-position: 5px center;
+}
+
+input{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000;
+	padding-left: 30px;
+}
+.belowHeader{
+	width: 940px;
+	margin: auto;
+
+}
+.belowHeader ul{
+	float: left;
+	margin-bottom: 50px;
+}
+.belowHeader ul li{
+	display: inline-block;
+	font-family: Tahoma;
+	color: #1a4da2;
+	font-size: 11px;
+	padding-right: 10px;
+}
+.belowHeader ul li a{
+	color: #1a4da2;
+}
+.belowHeader a:link{color: #1a4da2;text-decoration: none;}
+.belowHeader a:hover{color: #000000;font-weight: bold; text-decoration: none;}
+
+
+
+.FirstBanner{
+	width: 940px;
+	margin:auto;
+	padding-bottom: 10px;
+
+}
+.FirstBanner ul li{
+	padding-right: 35px;
+	font-family: Roboto;
+	font-size: 15px;
+	color: #1a4da2;
+	text-shadow: 0 1px rgba(255,255,255,.8);
+}
+.firstleft{
+	float: left;
+}
+.bangkokLink{
+	float: right;
+	margin-top: 30px;
+}
+.bangkokLink  li a{
+	color:#1a4da2;
+}
+.bangkok{
+	float: left;
+	margin-right: 14px;
+}
+.bangkokName{
+	font-family: Roboto;
+	font-size: 36px;
+	color: #d54405;
+	text-align: center;
+	padding-bottom: 10px;
+
+}
+.bangkokLink a:link{color:#1a4da2;text-decoration: none;}
+.bangkokLink a:hover{color:black;text-decoration: none;}
+
+ 
+.bangkokLink  li .btn{
+
+	border: 1px solid #dedede;
+	border-radius: 4px;
+	padding: 10px 15px;
+	font-family: "Myriad Pro";
+	font-size: 15px;
+	color: #d54405;
+	text-shadow: 0 1px rgba(255,255,255,.8);
+}
+.clear{
+	clear: both;
+}
+
+
+.secondWrapper{
+	width: 940px;
+	margin:auto;
+}
+.secondLeft{
+      float: left;
+      width: 225px;
+
+
+}
+.left{
+	float: left;
+}
+.new{
+	margin-left: 51px;
+}
+.secondLeft img{
+	margin-right: 18px;
+	margin-left: 10px;
+}
+.window{
+	padding-bottom:10px; 
+}
+
+.home{
+	padding-bottom: 15px;
+	margin-bottom: 15px; 
+	border-bottom: 1px solid #dddddd;
+	 width: 225px;
+}
+.getting{
+	padding-bottom: 15px;
+	margin-bottom: 15px; 
+	border-bottom: 1px solid #dddddd;
+	 width: 225px;
+}
+.holiday{
+	padding-bottom: 15px;
+	margin-bottom: 15px; 
+	border-bottom: 1px solid #dddddd;
+	 width: 225px;
+}
+.circle{
+	padding-bottom: 15px;
+	margin-bottom: 15px; 
+	border-bottom: 1px solid #dddddd;
+	 width: 225px;
+}
+.right{
+	padding-bottom: 15px;
+	margin-bottom: 15px; 
+	border-bottom: 1px solid #dddddd;
+	 width: 225px;
+}
+.howToReach{
+	font-family: Roboto;
+	font-size: 17px;
+	color: #d54405;
+	text-shadow: 0 1px rgba(255,255,255,.5);
+}
+.traveling{
+	font-family: Roboto;
+	font-size: 12px;
+	color: #000;
+}
+.ImgTag{
+	font-family: Roboto;
+	font-size: 15px;
+	color: #1a4da2;
+	text-shadow: 0 1px rgba(255,255,255,.5);
+}
+.ImgTagBelow{
+	font-family: Roboto;
+	font-size: 12px;
+	color: #878787;
+}
+.secondRight{
+	float: right;
+	border-left: 25px;
+}
+.how_to_reach{
+	display: block;
+	font-family: Roboto;
+	font-size: 32px;
+	color: #d54405;
+	margin-right: 360px;
+	margin-left: 30px;
+	margin-bottom: 25px;
+}
+.googlemapwrapper{
+	padding: 15px 15px 75px 15px;
+	
+	margin-left: 30px;
+	margin-bottom: 40px;
+	border: 1px solid #dadada;
+}
+#googleMap{
+	margin-bottom: 20px;
+	border:1px solid #dadada;
+}
+.DistanceFrom{
+	float: left;
+	font-family: Roboto;
+	font-size: 14px;
+	color: #666;
+	margin-right: 15px;
+}
+.search{
+	float: left;
+}
+.thirdBanner{
+	width: 940px;
+	margin: auto;
+	padding-bottom: 40px;
+
+}
+.thirdBannerWrapper{
+	padding-bottom: 80px;
+}
+.travel{
+	display: block;
+	font-family: Roboto;
+	font-size: 24px;
+	color: #d54405;
+	padding-bottom: 10px;
+	margin-left: 12px;
+	
+}
+.travelOpt{
+	margin-left: 252px;
+	margin-bottom: 28px;
+	border-bottom:1px solid #e9e9e9;
+}
+.thirdBanner img{
+   margin-right: 40px;
+   
+}
+.thirdBanner p{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000;
+	padding-bottom: 20px;
+}
+.thirdBanner a{
+	display: block;
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #1a4da2;
+	padding-bottom: 20px;
+
+	text-decoration: none;
+}
+.thirdHeading {
+	display: block;
+	font-family: Roboto;
+	font-size: 20px;
+	padding-bottom: 19px;
+	color: #000;
+}
+.air{
+	margin-left: 252px;
+}
+.bus{
+	margin-left: 252px;
+}
+.train{
+	margin-left: 252px;
+}
+.text{
+	float: left;
+	width: 557px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #f5f5f5;
+}
+.travelImg{
+	float: left;
+	width: 75px;
+}
+.bottom_text{
+	display: block;
+	margin-left: 252px;
+	font-family: "Roboto";
+	font-size: 16px;
+	color: #000;
+	margin-bottom: 15px;
+}
+.departureCity{
+	display: block;
+	float: left;
+	font-family: Roboto;
+	font-size: 14px;
+	color: #666;
+	margin-right: 30px;
+}
+.searchACity{
+	float: left;
+}
+.searchon{
+	margin-left: 252px;
+	margin-right: 10px;
+	
+}
+.searchOnRoute{
+	float: left;
+	
+}
+select {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+.clear{
+	clear: both;
+}
