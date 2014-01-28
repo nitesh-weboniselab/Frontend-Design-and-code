@@ -80,11 +80,11 @@ div,body,p,span,img,ul,li,ol,a,input,select{
 .header{
 	width: 940px;
 	margin:auto;
-	padding-top: 57px;
+	margin-top: 57px;
 }
 
 .headerLeft {
-	font-family: Roboto;
+	font-family: RobotoLight;
 	font-size: 37px;
 	color: #000;
 	float:left;
@@ -92,10 +92,10 @@ div,body,p,span,img,ul,li,ol,a,input,select{
 }
 
 .header ul li{
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 15px;
 	color: #1a4da2;
-	padding-right: 35px;
+	padding-right: 37px;
 }
 .header ul li a{
 	color: #4e6eb0;
@@ -109,13 +109,14 @@ ul li{
 }
 .headerRight{
 	float: left;
-	margin-top: 16px;
+	margin-top: 21px;
+
 }
 .headertextBox{
 	background-image: url(../images/search_logo.png);
 	background-repeat: no-repeat;
    
-	margin-top: 8px;
+	margin-top: 17px;
 	padding-top: 8px;
 	padding-bottom: 8px; 
 	-webkit-border-radius: 4px;
@@ -167,7 +168,7 @@ input{
 }
 .FirstBanner ul li{
 	padding-right: 35px;
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 15px;
 	color: #1a4da2;
 	text-shadow: 0 1px rgba(255,255,255,.8);
@@ -187,7 +188,7 @@ input{
 	margin-right: 14px;
 }
 .bangkokName{
-	font-family: "robotothin";
+	font-family: RobotoThin;
 	font-size: 36px;
 	color: #d54405;
 	text-align: center;
@@ -203,7 +204,7 @@ input{
 	border: 1px solid #dedede;
 	border-radius: 4px;
 	padding: 10px 15px;
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 15px;
 	color: #d54405;
 	text-shadow: 0 1px rgba(255,255,255,.8);
@@ -268,24 +269,24 @@ input{
 	 width: 225px;
 }
 .howToReach{
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 17px;
 	color: #d54405;
 	text-shadow: 0 1px rgba(255,255,255,.5);
 }
 .traveling{
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 12px;
 	color: #000;
 }
 .ImgTag{
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 15px;
 	color: #1a4da2;
 	text-shadow: 0 1px rgba(255,255,255,.5);
 }
 .ImgTagBelow{
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 12px;
 	color: #878787;
 }
@@ -295,7 +296,7 @@ input{
 }
 .how_to_reach{
 	display: block;
-	font-family: "robotothin";
+	font-family: RobotoThin;
 	font-size: 32px;
 	color: #d54405;
 	margin-right: 360px;
@@ -315,13 +316,13 @@ input{
 }
 .googlemapwrapper select{
 	padding-left: 10px;
-        font-family: "robotomedium";
+        font-family: RobotoMedium;
         font-size: 14px;
         color: #444444;
 }
 .DistanceFrom{
 	float: left;
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 14px;
 	color: #666;
 	margin-right: 15px;
@@ -331,7 +332,7 @@ input{
 	float: left;
 }
 .search select{
-	 font-family: 'robotomedium'; 
+	 font-family: RobotoMedium; 
 	width: 160px;
 	height: 30px;
 	-webkit-border-radius: 4px;
@@ -356,7 +357,7 @@ input{
 }
 .travel{
 	display: block;
-	font-family: "robotothin";
+	font-family: RobotoThin;
 	font-size: 24px;
 	color: #d54405;
 	padding-bottom: 10px;
@@ -389,7 +390,7 @@ input{
 }
 .thirdHeading {
 	display: block;
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 20px;
 	padding-bottom: 19px;
 	color: #000;
@@ -416,7 +417,7 @@ input{
 .bottom_text{
 	display: block;
 	margin-left: 252px;
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 16px;
 	color: #000;
 	margin-bottom: 15px;
@@ -424,10 +425,11 @@ input{
 .departureCity{
 	display: block;
 	float: left;
-	font-family: "robotolight";
+	font-family: RobotoLight;
 	font-size: 14px;
 	color: #666;
 	margin-right: 30px;
+	margin-top: 9px;
 }
 .searchACity{
 	float: left;
@@ -442,7 +444,7 @@ input{
 	
 
 
-	font-family: "robotoregular";
+	font-family: RobotoRegular;
 	font-size: 14px;
 	color: #aaa;
 }
@@ -483,7 +485,7 @@ input{
 	
 
 
-	font-family: "robotoregular";
+	font-family: RobotoRegular;
 	font-size: 14px;
 	color: #aaa;
 }
